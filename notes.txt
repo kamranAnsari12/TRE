@@ -1,0 +1,76 @@
+1️⃣ Data Structures (MOST important)
+✔ Data Structures Through C – Yashavant Kanetkar
+Very simple
+Best for stacks, queues, linked lists, trees
+Exactly matches MCQ exam pattern
+Alternative (slightly deeper):
+Data Structures – Seymour Lipschutz (Schaum’s Series)
+
+Best for practice problems
+Short explanations, many solved examples
+
+2️⃣ DBMS + SQL
+✔ Database System Concepts – Korth & Sudarshan
+Best for theory: keys, normalization, ER diagrams
+Short, conceptual
+For SQL practice:
+SQL by Example – Alan Beaulieu
+
+Very easy
+Covers SELECT, JOIN, ORDER BY, HAVING, VIEW, TRUNCATE, ROLLBACK
+
+3️⃣ C / C++ Programming
+✔ Let Us C – Yashavant Kanetkar
+Best for pointers, arrays, functions
+Simple & exam-focused
+Perfect for MCQ patterns
+For C++ (short):
+Object-Oriented Programming with C++ – E. Balagurusamy
+
+
+4️⃣ Operating System
+✔ Operating System – Galvin (Abraham Silberschatz)
+Gold standard
+Clear explanations of paging, scheduling, fragmentation
+Exactly matches the questions from your PDFs
+
+5️⃣ Computer Architecture
+✔ Computer Organization – V.C. Hamacher
+Very good for addressing modes, flags, registers
+Simple diagrams
+Frequently used in competitive exams
+Alternative (Simpler):
+Computer Organization & Architecture – William Stallings
+
+
+6️⃣ Automata & Theory of Computation
+✔ Theory of Computation – Mishra & Chandrasekaran
+Best for DFA, NFA, Grammar basics
+Short theory, easy MCQs
+Alternative:
+Peter Linz – Introduction to Automata Theory (slightly deeper)
+
+
+7️⃣ Algorithms & Complexity
+✔ Introduction to Algorithms – Cormen (CLRS)
+Use only selected chapters
+Time complexity, sorting, searching
+Very clear tables
+Alternative (very simple):
+Data Structures & Algorithms – Narasimha Karumanchi
+
+
+8️⃣ Boolean Algebra & Digital Logic
+✔ Digital Logic & Computer Design – Morris Mano
+Gold standard
+Best for logic gates, K-maps, Boolean simplification
+Alternative:
+Digital Electronics – R.P. Jain
+
+
+9️⃣ Computer Networks (Low Priority)
+✔ Computer Networks – Andrew S. Tanenbaum
+Read only basic chapters
+OSI, TCP/IP, topologies, protocols
+Alternative (shorter):
+Data Communications & Networking – Behrouz Forouzan
